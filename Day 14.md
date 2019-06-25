@@ -1,5 +1,5 @@
 # Day 14
-Today we will learn about ```NFS``` (Network File System)
+Today we will learn about ```NFS``` (Network File System)/////
 
 *   We need to install this package, This package gives us a feature to use ```tab``` key to autocomplete things.
 ```
